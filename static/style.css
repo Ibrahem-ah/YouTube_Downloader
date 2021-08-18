@@ -5,9 +5,18 @@
     text-align: center;
 }
 
+
+
+
 body {
+    color: rgb(255, 255, 255);
     font-family: Arial;
     margin-top: 40vh;
+    background-image: url('https://get.wallhere.com/photo/landscape-valley-lake-forest-colorscape-sunset-elk-deer-1828771.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 .URL-input, .download-button {
