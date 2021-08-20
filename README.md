@@ -9,7 +9,7 @@
 
 **2- Then go to the project folder and run this command** 
 
-	pip install virtualenv
+	virtualenv env
 
 
 **3- Then we will run this command** 
