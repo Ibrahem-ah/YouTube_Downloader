@@ -34,8 +34,8 @@ def download():
             return send_from_directory(
                 "./videos", f"{filename}.mkv", as_attachment=True
             )
-
-    return render_template("test.html")
+        
+    return redirect("/")
 
 
 def downloadURL(url):
