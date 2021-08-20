@@ -31,10 +31,8 @@ body {
     outline: none;
     background: #EEEEEE;
     border:2px solid #afb3b3; 
-
     /* width:30em; */
 }
-
 
 .download-button {
     border-radius: 0px 19px 19px 0px;
@@ -49,23 +47,3 @@ body {
     box-shadow: 0 5px rgb(148, 0, 0);
     transform: translateY(4px);
 }
-/* 
-
-
-.URL-input {
-    border-radius:4px 0px 0px 4px;
-    width:30em;
-    text-align: left;
-    border:2px solid #EEEEEE;
-    background: #EEEEEE;
-    outline:none;
-}
-.URL-input:focus {
-    border:2px solid #0485ff;
-}
-.convert-button {
-    border-radius:0px 4px 4px 0px;
-    border:2px solid #0485ff;
-    background: #0485ff;
-    color:white;
-} */
