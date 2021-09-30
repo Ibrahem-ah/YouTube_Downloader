@@ -32,7 +32,7 @@ def download():
             )
         except:
             return send_from_directory(
-                "./videos", f"{filename}.mkv", as_attachment=True
+                "./videos", f"{filename}.mp4", as_attachment=True
             )
         
     return redirect("/")
