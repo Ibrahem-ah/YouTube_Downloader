@@ -17,7 +17,7 @@
 	.\env\Scripts\activate
 	
 	
-**4- after that we will install all the packages that i have use by running this command** 
+**4- after that we will install all the packages that I did use by running this command** 
 
 	(env) pip install -r requirements.txt
 
